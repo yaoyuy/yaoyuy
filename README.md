@@ -9,4 +9,4 @@
 - 🎤 **CrossExam 质询室** — 多 Agent 对抗式面试沙盘，把简历交给一整间 AI 面试官
   → [crossexam](https://github.com/yaoyuy/crossexam)
 
-📫 1666847651@qq.com · 四川绵阳
+📫 hexiangyu1236@gmail.cpm · 四川绵阳
