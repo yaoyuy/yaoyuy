@@ -10,7 +10,6 @@
   → [fedkg-repro](https://github.com/yaoyuy/fedkg-repro)
 - 🎤 **CrossExam 质询室** — 多 Agent 对抗式面试沙盘，把简历交给一整间 AI 面试官
   → [crossexam](https://github.com/yaoyuy/crossexam)
-
 - 🏛 **HXAI 智慧党建** — Flask + SQLite 从零搭的党建系统：公众号风格前台、服务端渲染后台、配套小程序
   → [hxai-dangjian](https://github.com/yaoyuy/hxai-dangjian)
 
