@@ -6,6 +6,8 @@
   → [nids-evaluation-practices](https://github.com/yaoyuy/nids-evaluation-practices)
 - 🧪 **表格模型缺失鲁棒性** — 9 组实验复现，MCAR/MAR 下的系数稳定性与可解释性
   → [tabular-missingness-robustness](https://github.com/yaoyuy/tabular-missingness-robustness)
+- 🕸 **联邦知识图谱分区协议** — 固定模型只改切分方式，四个分区协议在 FB15k-237 / WN18RR 上的可复现实验包
+  → [fedkg-repro](https://github.com/yaoyuy/fedkg-repro)
 - 🎤 **CrossExam 质询室** — 多 Agent 对抗式面试沙盘，把简历交给一整间 AI 面试官
   → [crossexam](https://github.com/yaoyuy/crossexam)
 
